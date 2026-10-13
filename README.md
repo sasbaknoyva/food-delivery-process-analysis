@@ -19,8 +19,8 @@ Delivery times are increasing, cancellation rate is growing and customer complai
 | Folder | Content | Status |
 |---|---|---|
 | 01-business-case | Problem statement, goals, stakeholders | In progress | Done
-| 02-requirements | User stories and acceptance criteria | Planned | In progress 
-| 03-process | AS-IS and TO-BE process diagrams | Planned |
+| 02-requirements | User stories and acceptance criteria | Planned | In progress |  Done
+| 03-process | AS-IS and TO-BE process diagrams | Planned | In progress
 | 04-data-analysis | Synthetic dataset, KPIs, dashboard | Planned |
 | 05-recommendations | Findings and recommendations | Planned |
 
@@ -28,4 +28,4 @@ Delivery times are increasing, cancellation rate is growing and customer complai
 To be completed.
 
 ## Tools
-`Excel` `Draw.io` `Markdown`
+`Excel` `Mermaid` `Markdown`
