@@ -20,8 +20,8 @@ Delivery times are increasing, cancellation rate is growing and customer complai
 |---|---|---|
 | 01-business-case | Problem statement, goals, stakeholders | In progress | Done
 | 02-requirements | User stories and acceptance criteria | Planned | In progress |  Done
-| 03-process | AS-IS and TO-BE process diagrams | Planned | In progress
-| 04-data-analysis | Synthetic dataset, KPIs, dashboard | Planned |
+| 03-process | AS-IS and TO-BE process diagrams | Planned | In progress| Done
+| 04-data-analysis | Synthetic dataset, KPIs, dashboard | Planned | In progress
 | 05-recommendations | Findings and recommendations | Planned |
 
 ## Result
